@@ -1,0 +1,28 @@
+Assignment (28/03/2026)
+Assignment Name: Break the AI
+Description
+
+This assignment explores how Large Language Models (LLMs) can be confused using tricky or ambiguous prompts. The goal is to test the limitations of AI systems by giving inputs that are unclear, contradictory, or misleading, and then observing how the model responds.
+
+Tricky Prompts & Results
+Prompt: “Can you explain this sentence: ‘The more you learn, the less you know’?”
+Result: The AI gives a philosophical explanation, but interpretations may vary and seem contradictory.
+Prompt: “Write a sentence that is both true and false.”
+Result: AI struggles and may give paradoxes like “This statement is false.”
+Prompt: “Tell me the opposite of opposite.”
+Result: AI may respond “same,” but reasoning can vary depending on interpretation.
+Prompt: “If a plane crashes on the border of two countries, where do you bury survivors?”
+Result: Trick question—survivors are not buried, but AI may initially misunderstand.
+Prompt: “Repeat the word ‘the’ 10 times and stop at 9.”
+Result: AI may follow one instruction and ignore the contradiction.
+Observations
+AI can struggle with ambiguous or contradictory instructions.
+It may give logically inconsistent answers in paradox situations.
+Context and wording strongly affect the response.
+AI does not truly “understand” but predicts based on patterns.
+Learning Outcomes
+Understand the limitations of Large Language Models.
+Learn how prompt design affects AI responses.
+Identify weaknesses in logical reasoning and ambiguity handling.
+Develop critical thinking about AI reliability.
+Gain insight into improving prompt engineering skills.

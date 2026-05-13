@@ -1,0 +1,28 @@
+Assignment (10/03/2026)
+Assignment Name: Spam Classifier Thinking
+Description
+
+This assignment focuses on designing a basic spam detection system using machine learning concepts. The goal is to identify unwanted or spam messages by analyzing patterns in email or text data. The system learns from previously labeled messages (spam or not spam) and uses this information to classify new incoming messages.
+
+Features (Input Data for the Model)
+Presence of suspicious keywords (e.g., “win”, “free”, “offer”).
+Number of links in the message.
+Sender email address or domain.
+Message length and frequency of capital letters.
+Presence of attachments or unusual characters.
+Data Needed
+A dataset of labeled emails or messages (Spam / Not Spam).
+Message text content.
+Sender information.
+Historical examples of both spam and legitimate messages for training the model.
+Possible Mistakes
+False Positive: A legitimate email is incorrectly classified as spam.
+False Negative: A spam message is incorrectly classified as normal.
+The model may struggle with new types of spam not present in training data.
+Some words used in normal emails may also appear in spam, causing confusion.
+Learning Outcomes
+Understand how machine learning can be applied to spam detection.
+Learn how to identify features used for classification tasks.
+Recognize the importance of training data in ML systems.
+Understand common classification errors in machine learning models.
+Develop basic skills in designing ML-based problem solutions.

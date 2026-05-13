@@ -1,0 +1,13 @@
+Mini Project Proposal: Spam Message Detection System
+
+This project aims to build a machine learning model that can classify messages as spam or not spam (ham). Spam messages are unwanted and may include advertisements or harmful links, so detecting them automatically is important for improving user experience and safety.
+
+The project will use a publicly available dataset such as the SMS Spam Collection Dataset from Kaggle or the UCI Machine Learning Repository. This dataset contains labeled messages categorized as spam or ham, making it suitable for training a classification model.
+
+Before training, the text data will be preprocessed. This includes converting text to lowercase, removing punctuation, eliminating stopwords, and tokenizing the sentences. These steps help clean the data and make it easier for the model to understand.
+
+The cleaned text will then be converted into numerical form using techniques like Bag of Words or TF-IDF. For the algorithm, Naive Bayes will be used as it is simple and effective for text classification tasks. Logistic Regression may also be tested for comparison.
+
+The model will be trained on a portion of the dataset and tested on new data to evaluate its performance. Metrics such as accuracy, precision, and recall will be used.
+
+The expected output is a system that can take a new message as input and predict whether it is spam or not, along with performance evaluation results.

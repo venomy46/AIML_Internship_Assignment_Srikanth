@@ -1,0 +1,41 @@
+Assignment (20/03/2026)
+Assignment Name: Text Challenges
+Messy Sentences with Issues
+"hey brooo 😂 what r u doin??" → Slang, emoji, typo
+"I cant beleive this!!!" → Typo
+"LOL that was sooo funny 🤣" → Slang, emoji
+"Plz send d notes asap" → Slang, short forms
+"Gud mrng! hv a gr8 day 😊" → Slang, typo, emoji
+"This is amaznggg!!!" → Typo, repeated letters
+"idk what u mean" → Slang
+"omg!!! thats crazzzyyy 😜" → Slang, typo, emoji
+"meet me @ 5pm" → Symbol usage
+"thnx alot!!!" → Slang, typo
+"y r u late???" → Slang
+"Im sooo tired 😴" → Typo, emoji
+"bday party was lit 🔥" → Slang, emoji
+"c u soon!!" → Slang
+"noooo wayyyy!!!" → Repeated letters
+"wat is this???" → Typo
+"lemme know asap" → Slang
+"gr8 job 👍" → Slang, emoji
+"dont wry abt it" → Slang, typo
+"hiiiii how r uuu??" → Repeated letters, slang
+Preprocessing Needed
+Lowercasing → Convert all text to lowercase for consistency.
+Removing emojis → Emojis can be removed or converted to text labels.
+Correcting typos → Fix spelling mistakes using dictionaries or tools.
+Expanding slang/short forms → Convert “u” → “you”, “gr8” → “great”.
+Removing special characters → Symbols like @, !!!, ??? cleaned.
+Removing extra letters → Convert “soooo” → “so”.
+Tokenization → Split sentences into individual words.
+Description
+
+This assignment highlights the challenges in processing real-world text data, which often contains slang, typos, emojis, and informal language. It focuses on identifying these issues and applying preprocessing techniques to clean and standardize text for machine learning models.
+
+Learning Outcomes
+Understand challenges in natural language processing (NLP).
+Learn techniques for text preprocessing and cleaning.
+Identify different types of noise in text data.
+Improve ability to prepare text for ML and AI models.
+Develop practical skills in handling real-world messy data.

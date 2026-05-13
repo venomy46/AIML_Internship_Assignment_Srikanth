@@ -1,0 +1,22 @@
+Assignment (07/03/2026)
+Assignment Name: KNN in Real Life
+Explanation
+
+K-Nearest Neighbors (KNN) is used in recommendation systems similar to Netflix. The algorithm finds users with similar preferences and recommends movies or shows that those similar users liked. It works by measuring similarity (distance) between users’ viewing patterns.
+
+Example: If two users watch many of the same genres or movies, the system considers them neighbors and suggests content one user watched but the other hasn’t seen.
+
+Small Similarity Example
+User	Action	Comedy	Drama
+User A	5	3	4
+User B	4	3	5
+User C	1	5	2
+
+If User A and User B have very similar ratings, they are close neighbors.
+If User B liked a new movie, the system may recommend it to User A using KNN.
+
+Learning Outcomes
+Understand how KNN works using similarity between data points.
+Learn how recommendation systems work in streaming platforms.
+Recognize the concept of distance and nearest neighbors in ML.
+Apply KNN ideas to real-life recommendation problems.

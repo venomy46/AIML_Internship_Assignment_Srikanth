@@ -1,0 +1,11 @@
+Assignment Name: AI Around Me
+Google Search – Uses ML to rank search results based on relevance and past user behavior using prediction models.
+YouTube Recommendations – ML analyzes watch history and preferences to suggest videos using recommendation algorithms.
+Google Maps Navigation – Uses ML to predict traffic and find the fastest routes based on real-time data.
+Voice Assistants (Google Assistant/Siri) – Uses speech recognition and NLP models to understand voice commands and respond.
+Email Spam Filter – ML classifies emails as spam or important by learning patterns from past emails.
+Face Unlock in Smartphones – Uses computer vision and deep learning to recognize facial features.
+Netflix Recommendations – ML suggests movies/shows based on viewing history and user similarity.
+Social Media Feed (Instagram/Facebook) – ML prioritizes posts based on user interactions and interests.
+Online Shopping Suggestions (Amazon/Flipkart) – Uses ML to recommend products based on browsing and purchase history.
+Autocorrect & Predictive Text – ML predicts the next word by learning language patterns from large datasets.

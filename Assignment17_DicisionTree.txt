@@ -1,0 +1,9 @@
+            Weather?
+           /        \
+        Sunny      Rainy
+        /             \
+   Temperature?      Humidity?
+    /      \          /     \
+  Hot     Mild     High    Normal
+   |        |        |        |
+  No       Yes      No       Yes

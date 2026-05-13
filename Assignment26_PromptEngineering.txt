@@ -1,0 +1,27 @@
+Assignment (30/03/2026)
+Assignment Name: Prompt Engineer
+1. Resume Prompt
+Weak Prompt:
+“Write a resume.”
+Strong Prompt:
+“Create a professional resume for a Computer Science student with skills in Python, Machine Learning, and Web Development. Include education, projects, technical skills, and internships in a clean format.”
+2. Business Idea Prompt
+Weak Prompt:
+“Give me a business idea.”
+Strong Prompt:
+“Suggest a low-investment tech-based business idea for college students in India, including target audience, revenue model, and growth potential.”
+3. Study Plan Prompt
+Weak Prompt:
+“Make a study plan.”
+Strong Prompt:
+“Create a 4-week study plan for learning Python basics, including daily topics, practice tasks, and revision schedule for a beginner.”
+Comparison (Weak vs Strong Prompts)
+Weak prompts are vague and lack details, leading to generic answers.
+Strong prompts are specific, detailed, and goal-oriented, producing more accurate and useful responses.
+Strong prompts clearly define context, requirements, and expected output.
+Learning Outcomes
+Understand the importance of clear and specific prompts.
+Learn how to improve output quality using prompt engineering.
+Develop skills in writing effective instructions for AI systems.
+Recognize the difference between generic and structured queries.
+Enhance ability to interact efficiently with AI tools.

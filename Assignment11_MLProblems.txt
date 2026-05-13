@@ -1,0 +1,27 @@
+This assignment focuses on identifying real-world problems where Machine Learning can be applied. It involves suggesting ML-based solutions in different domains such as college, healthcare, and shopping, and explaining the relationship between input data and expected output.
+
+ML Ideas with Input → Output
+College – Student Performance Prediction
+Input: Attendance, assignment scores, previous exam marks
+Output: Predicted final exam performance or grade.
+College – Smart Attendance System
+Input: Student face images from classroom camera
+Output: Automatic attendance record.
+Healthcare – Disease Prediction System
+Input: Patient symptoms, medical history, test results
+Output: Possible disease prediction.
+Healthcare – Medicine Recommendation
+Input: Patient symptoms and diagnosis
+Output: Suggested medicines or treatment options.
+Shopping – Product Recommendation System
+Input: User browsing history and past purchases
+Output: Recommended products.
+Shopping – Price Prediction
+Input: Product demand, previous prices, and market trends
+Output: Predicted future product price.
+Learning Outcomes
+Understand how Machine Learning can solve real-world problems.
+Learn to define input data and expected outputs for ML systems.
+Develop skills in problem identification for ML applications.
+Improve understanding of ML use cases across different domains.
+Enhance analytical and creative thinking in AI solutions.

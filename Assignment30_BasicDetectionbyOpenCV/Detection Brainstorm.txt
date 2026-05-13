@@ -1,0 +1,27 @@
+1. Real-World Uses of Face/Object Detection
+Smart Attendance System (Face Detection)
+Automatically marks attendance by detecting and recognizing student faces in classrooms, eliminating manual roll calls.
+Security & Surveillance Systems (Object + Face Detection)
+Detects suspicious activities, unauthorized persons, or restricted objects in real-time using CCTV feeds.
+Autonomous Vehicles (Object Detection)
+Identifies pedestrians, vehicles, traffic signs, and obstacles to ensure safe navigation.
+Retail Analytics (Object Detection)
+Tracks customer movement, product interaction, and shelf engagement to optimize store layout and sales.
+Healthcare Monitoring (Face Detection)
+Detects patient presence, monitors emotions or fatigue, and assists in remote health monitoring systems.
+2. Designed Solution: Smart Classroom Attendance System
+Problem Statement
+
+Manual attendance is time-consuming, prone to errors, and inefficient in large classrooms. There is a need for an automated, accurate, and real-time attendance system.
+
+Proposed Solution
+
+A Face Detection + Recognition System that:
+
+Captures live video from a camera
+Detects faces in real-time
+Matches faces with stored student data
+Automatically marks attendance
+
+System Architecture (High-Level)
+Camera Input → Face Detection → Face Recognition → Database Match → Attendance Record
